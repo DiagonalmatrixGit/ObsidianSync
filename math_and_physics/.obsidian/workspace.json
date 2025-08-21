@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/test.md",
+                "file": "Symbole.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Symbole"
             }
           }
         ]
@@ -169,11 +169,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "add34ff3e6698b03",
+  "active": "3f8ef7e3649f79aa",
   "lastOpenFiles": [
+    "linux/Themes anpassen mit cli.md",
+    "linux/Theme anpassen mit python.md",
+    "linux/\"Themes.md",
+    "linux/Themes.md",
+    "home/philippbarth/Uni/ObsidianSync/math_and_physics/linux/Themes.md",
+    "home/philippbarth/Uni/ObsidianSync/math_and_physics/linux",
+    "home/philippbarth/Uni/ObsidianSync/math_and_physics",
+    "home/philippbarth/Uni/ObsidianSync",
+    "home/philippbarth/Uni",
+    "home/philippbarth",
+    "home",
+    "Themes.md",
+    "linux/wofi.md",
+    "Physik/Spezielle Relativitätstheorie.md",
     "Mathe/Stochastik/Potenzmenge.md",
     "Mathe/Stochastik/Ereignisse.md",
-    "Physik/test.md",
-    "linux/wofi.md"
+    "Symbole.md"
   ]
 }
