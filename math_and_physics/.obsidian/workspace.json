@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbole.md",
+                "file": "linux/Themes anpassen mit cli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symbole"
+              "title": "Themes anpassen mit cli"
             }
           }
         ]
@@ -169,10 +169,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "3f8ef7e3649f79aa",
+  "active": "add34ff3e6698b03",
   "lastOpenFiles": [
-    "linux/Themes anpassen mit cli.md",
     "linux/Theme anpassen mit python.md",
+    "linux/Themes anpassen mit cli.md",
+    "Physik/Spezielle Relativitätstheorie.md",
+    "linux/wofi.md",
+    "Symbole.md",
     "linux/\"Themes.md",
     "linux/Themes.md",
     "home/philippbarth/Uni/ObsidianSync/math_and_physics/linux/Themes.md",
@@ -183,10 +186,7 @@
     "home/philippbarth",
     "home",
     "Themes.md",
-    "linux/wofi.md",
-    "Physik/Spezielle Relativitätstheorie.md",
     "Mathe/Stochastik/Potenzmenge.md",
-    "Mathe/Stochastik/Ereignisse.md",
-    "Symbole.md"
+    "Mathe/Stochastik/Ereignisse.md"
   ]
 }
