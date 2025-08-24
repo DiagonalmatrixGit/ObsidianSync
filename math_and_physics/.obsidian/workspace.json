@@ -1,23 +1,24 @@
 {
   "main": {
-    "id": "1a6637eeb17975fd",
+    "id": "e5e2f53e5a3949fc",
     "type": "split",
     "children": [
       {
-        "id": "e8822121147f8ece",
+        "id": "4ebce28a827094f0",
         "type": "tabs",
         "children": [
           {
-            "id": "add34ff3e6698b03",
+            "id": "dcc177c31ab70821",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/pygobject.md",
+                "file": "Emails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "pygobject"
 <<<<<<< HEAD
 =======
@@ -36,6 +37,9 @@
               "icon": "lucide-file",
               "title": "Emails"
 >>>>>>> a2a8648 (pygobject)
+=======
+              "title": "Emails"
+>>>>>>> bfa75d1 (pygobject)
             }
           }
         ],
@@ -45,15 +49,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e3b04d7b738b1e9d",
+    "id": "788028485afe3ef3",
     "type": "split",
     "children": [
       {
-        "id": "d1006e50c9fd4d0d",
+        "id": "4d7c6be5d2b55a32",
         "type": "tabs",
         "children": [
           {
-            "id": "3f8ef7e3649f79aa",
+            "id": "8f22dd08574b9a89",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +70,7 @@
             }
           },
           {
-            "id": "e22ea79e80f7be3d",
+            "id": "7c67e9eb58335a5e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +87,7 @@
             }
           },
           {
-            "id": "4b41e9327a218dcd",
+            "id": "c7d88584b1305dac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,20 +103,20 @@
     "width": 300
   },
   "right": {
-    "id": "e9fbe98de9aff8a2",
+    "id": "4a070773ea03a24b",
     "type": "split",
     "children": [
       {
-        "id": "d87736844ccb9ccf",
+        "id": "403e781399e605de",
         "type": "tabs",
         "children": [
           {
-            "id": "1563baa16f746e6b",
+            "id": "f6a41dbc965ab51c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Stochastik/Potenzmenge.md",
+                "file": "Emails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,25 +126,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für Potenzmenge"
+              "title": "Rückverweise für Emails"
             }
           },
           {
-            "id": "d09079cd92139524",
+            "id": "627e796a42b0773f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Stochastik/Potenzmenge.md",
+                "file": "Emails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Potenzmenge öffnen"
+              "title": "Ausgehende Links von Emails öffnen"
             }
           },
           {
-            "id": "2ebce4d48425b524",
+            "id": "4e5fad7db62e4485",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,18 +159,18 @@
             }
           },
           {
-            "id": "5a6f44375d769f21",
+            "id": "5d5dfe074de09c3f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Stochastik/Potenzmenge.md",
+                "file": "Emails.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Potenzmenge"
+              "title": "Gliederung von Emails"
             }
           }
         ]
@@ -187,6 +191,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "68707c93d2a86707",
   "lastOpenFiles": [
 <<<<<<< HEAD
@@ -200,18 +205,15 @@
     "linux/Theme anpassen mit python.md",
     "linux/Themes anpassen mit cli.md",
     "Physik/Spezielle Relativitätstheorie.md",
+=======
+  "active": "dcc177c31ab70821",
+  "lastOpenFiles": [
+>>>>>>> bfa75d1 (pygobject)
     "Symbole.md",
-    "linux/\"Themes.md",
-    "linux/Themes.md",
-    "home/philippbarth/Uni/ObsidianSync/math_and_physics/linux/Themes.md",
-    "home/philippbarth/Uni/ObsidianSync/math_and_physics/linux",
-    "home/philippbarth/Uni/ObsidianSync/math_and_physics",
-    "home/philippbarth/Uni/ObsidianSync",
-    "home/philippbarth/Uni",
-    "home/philippbarth",
-    "home",
-    "Themes.md",
-    "Mathe/Stochastik/Potenzmenge.md",
-    "Mathe/Stochastik/Ereignisse.md"
+    "Emails.md",
+    "linux/pygobject.md",
+    "linux/Themes anpassen mit cli.md",
+    "linux/wofi.md",
+    "linux/Theme anpassen mit python.md"
   ]
 }
