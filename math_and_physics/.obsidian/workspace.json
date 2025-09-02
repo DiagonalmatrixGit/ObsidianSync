@@ -1,63 +1,41 @@
 {
   "main": {
-    "id": "e5e2f53e5a3949fc",
+    "id": "a2750a2e621f88da",
     "type": "split",
     "children": [
       {
-        "id": "4ebce28a827094f0",
+        "id": "f0f11af80e8d173d",
         "type": "tabs",
         "children": [
           {
-            "id": "dcc177c31ab70821",
+            "id": "387956bb2ed77f7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emails.md",
+                "file": "Python Kurs/matplotlib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "pygobject"
-<<<<<<< HEAD
-=======
-            }
-          },
-          {
-            "id": "68707c93d2a86707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emails.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emails"
->>>>>>> a2a8648 (pygobject)
-=======
-              "title": "Emails"
->>>>>>> bfa75d1 (pygobject)
+              "title": "matplotlib"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "788028485afe3ef3",
+    "id": "030527673b111fcc",
     "type": "split",
     "children": [
       {
-        "id": "4d7c6be5d2b55a32",
+        "id": "b135744d8b58de59",
         "type": "tabs",
         "children": [
           {
-            "id": "8f22dd08574b9a89",
+            "id": "5582f72c5832ddaa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +48,7 @@
             }
           },
           {
-            "id": "7c67e9eb58335a5e",
+            "id": "2f79d616085e5a3c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,7 +65,7 @@
             }
           },
           {
-            "id": "c7d88584b1305dac",
+            "id": "361a21b9fd9cc9a4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -103,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "4a070773ea03a24b",
+    "id": "30c7f6321f81fbf9",
     "type": "split",
     "children": [
       {
-        "id": "403e781399e605de",
+        "id": "902971bdb3d0d124",
         "type": "tabs",
         "children": [
           {
-            "id": "f6a41dbc965ab51c",
+            "id": "df334178ed802669",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emails.md",
+                "file": "Mathe/Stochastik/Ereignisse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für Emails"
+              "title": "Rückverweise für Ereignisse"
             }
           },
           {
-            "id": "627e796a42b0773f",
+            "id": "78503c00740a99e7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emails.md",
+                "file": "Mathe/Stochastik/Ereignisse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Emails öffnen"
+              "title": "Ausgehende Links von Ereignisse öffnen"
             }
           },
           {
-            "id": "4e5fad7db62e4485",
+            "id": "597261095c903a1e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,18 +137,18 @@
             }
           },
           {
-            "id": "5d5dfe074de09c3f",
+            "id": "7e6f3eddf7079a87",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emails.md",
+                "file": "Mathe/Stochastik/Ereignisse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Emails"
+              "title": "Gliederung von Ereignisse"
             }
           }
         ]
@@ -191,29 +169,17 @@
       "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "68707c93d2a86707",
+  "active": "387956bb2ed77f7e",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "linux/wofi.md",
-    "linux/pygobject.md",
-=======
-    "linux/pygobject.md",
-    "Emails.md",
-    "linux/wofi.md",
->>>>>>> a2a8648 (pygobject)
-    "linux/Theme anpassen mit python.md",
-    "linux/Themes anpassen mit cli.md",
+    "Python Kurs/numpy.md",
+    "Python Kurs/matplotlib.md",
     "Physik/Spezielle Relativitätstheorie.md",
-=======
-  "active": "dcc177c31ab70821",
-  "lastOpenFiles": [
->>>>>>> bfa75d1 (pygobject)
-    "Symbole.md",
     "Emails.md",
-    "linux/pygobject.md",
-    "linux/Themes anpassen mit cli.md",
-    "linux/wofi.md",
-    "linux/Theme anpassen mit python.md"
+    "Python Kurs",
+    "linux/Python Kurs.md",
+    "Symbole.md",
+    "Mathe/Stochastik/Potenzmenge.md",
+    "Mathe/Stochastik/Ereignisse.md",
+    "Unbenannt.base"
   ]
 }
