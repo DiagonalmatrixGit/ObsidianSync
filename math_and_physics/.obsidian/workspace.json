@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "387956bb2ed77f7e",
+            "id": "26dde4849a64f3bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Kurs/matplotlib.md",
+                "file": "Bachelorarbeit/Leitgedanken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "matplotlib"
+              "title": "Leitgedanken"
             }
           }
         ]
@@ -169,15 +169,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "387956bb2ed77f7e",
+  "active": "26dde4849a64f3bb",
   "lastOpenFiles": [
+    "Bachelorarbeit/Malle_Variablenaspekte.md",
+    "ascii arts.md",
+    "Bachelorarbeit/funktionaler_Zusammenhang.md",
+    "Bachelorarbeit/Leitgedanken.md",
+    "Bachelorarbeit",
     "Python Kurs/numpy.md",
+    "Python Kurs/Chi2 aus einer Datenliste.md",
+    "Python Kurs/Curve_Fit.md",
+    "Python Kurs/Schätzer.md",
+    "Python Kurs/Statistik Grundlagen.md",
+    "Curve.md",
+    "Python Kurs/Verteilungen.md",
+    "Symbole.md",
+    "linux/Theme anpassen mit python.md",
     "Python Kurs/matplotlib.md",
     "Physik/Spezielle Relativitätstheorie.md",
     "Emails.md",
     "Python Kurs",
     "linux/Python Kurs.md",
-    "Symbole.md",
     "Mathe/Stochastik/Potenzmenge.md",
     "Mathe/Stochastik/Ereignisse.md",
     "Unbenannt.base"
